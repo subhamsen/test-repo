@@ -1,3 +1,4 @@
+print("Hello World")
 hungry = input("I am hungry")
 if hungry == "yes":
     print("eat up.")
