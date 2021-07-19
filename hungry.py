@@ -4,4 +4,4 @@ if hungry == "yes":
     print("eat up.")
 else:
     print("stop bothering!")
-
+print("Bye.")
